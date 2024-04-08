@@ -1,0 +1,350 @@
+    1  history
+    2  cd ~/
+    3  ls -l
+    4  ls -l .*
+    5  cat .bash_history 
+    6  rm .bash_history 
+    7  sudo apt update
+    8  sudo apt install default-jdk
+    9  cd Desktop
+   10  ls
+   11  cd clion-2023.3.4
+   12  /s
+   13  ls
+   14  cd bin
+   15  ./clion.sh
+   16  sudo apt update
+   17  ./clion.sh
+   18  cd .....
+   19  cd ..
+   20  sudo apt-get purge openjdk-11-jre
+   21  sudo apt-get install openjdk-17-jdk
+   22  ls
+   23  cd Desktop
+   24  ls
+   25  ls CLion-2023.3.4.tar.gz
+   26  cd CLion-2023.3.4.tar.gz
+   27  ls
+   28  cd clion-2023.3
+   29  cd clion-2023.3.4
+   30  ls
+   31  cd bin
+   32  ./clion.sh
+   33  ls
+   34  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror)
+   35  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   36  ls
+   37  cd CLionProjects
+   38  ls
+   39  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   40  cd countnames_parallel
+   41  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   42  cd ..
+   43  [200~sudo apt-get update
+   44  sudo apt-get install build-essential
+   45  ls
+   46  cd CLionProjects
+   47  ls
+   48  cd countnames_parallel
+   49  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   50  cd ..
+   51  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   52  gcc --version
+   53  sudo apt update
+   54  sudo apt install build-essential
+   55  gcc --version
+   56  ls
+   57  cd ..
+   58  gcc --version
+   59  sudo apt update
+   60  gcc --version
+   61  ping -c 4 google.com
+   62  sudo apt update
+   63  sudo apt install build-essential
+   64  gcc --version
+   65  ls
+   66  cd CLionProjects
+   67  ls
+   68  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   69  cd countnames_parallel
+   70  ls
+   71  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   72  ./countnames_parallel names1.txt names2.txt
+   73  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   74  ./countnames_parallel names1.txt names2.txt
+   75  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   76  ./countnames_parallel names1.txt names2.txt
+   77  ./countnames_parallel names1.txt names2.txt names2.txt
+   78  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   79  ./countnames_parallel names1.txt names2.txt names2.txt
+   80  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   81  ./countnames_parallel names1.txt names2.txt names2.txt
+   82  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   83  ./countnames_parallel names1.txt names2.txt names2.txt
+   84  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   85  ./countnames_parallel names1.txt names2.txt names2.txt
+   86  ./countnames_parallel names1.txt names2.txt
+   87  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   88  ./countnames_parallel names1.txt names2.txt
+   89  ./countnames_parallel names1.txt names2.txt names2.txt
+   90  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   91  ./countnames_parallel names1.txt names2.txt names2.txt
+   92  gcc -o countnames_parallel countnames_parallel.c -Wall -Werror
+   93  ./countnames_parallel names1.txt names2.txt names2.txt
+   94  git init
+   95  git remote add origin https://SuperShishido@bitbucket.org/landon-shishido/cs149..git
+   96  git config --global user.email "landonbusiness1@gmail.com"
+   97  git config --global user.name "SuperShishido"
+   98  ls
+   99  cd Desktop
+  100  ls
+  101  cd CS146
+  102  ls
+  103  cd WS1
+  104  git add .
+  105  git commit -m "WS1 commit" -a
+  106  cd ..
+  107  cd Desktop
+  108  ls
+  109  ls WS1
+  110  cd WS1
+  111  git add .
+  112  git commit -m "WS1 commit" -a
+  113  git push -u origin master
+  114  ping bitbucket.org
+  115  git push -u origin master
+  116  git init
+  117  cd
+  118  ls
+  119  cd Desktop
+  120  ls
+  121  cd WS1
+  122  git add .
+  123  git commit -m "WS1 commit" -a
+  124  git init
+  125  ls
+  126  cd Desktop
+  127  ls
+  128  git add WS1
+  129  ls
+  130  git commit -m "WS1 commit" -a
+  131  git reset
+  132  git add WS1
+  133  git commit -m "WS1 commit" -a
+  134  git reset
+  135  ls
+  136  cd DONE
+  137  ls
+  138  cd WS1
+  139  git add .
+  140  git commit -m "WS1 commit" -a
+  141  git push -u origin master
+  142  cd ..
+  143  ls
+  144  cd WS2
+  145  git add .
+  146  git commit -m "WS2 commit" -a
+  147  git push -u origin master
+  148  git init
+  149  ls
+  150  cd Desktop
+  151  ls
+  152  cd CS146
+  153  ls
+  154  cd countnames_parallel
+  155  git add .
+  156  git commit -m "A3 commit" -a
+  157  git reset
+  158  git add .
+  159  git commit -m "A3 commit" -a
+  160  git add .
+  161  git commit -m "A3 commit" -a
+  162  git push -u origin master
+  163  git pull ...
+  164  git pull
+  165  git reset
+  166  git add .
+  167  git commit -m "A3 commit" -a
+  168  git add .
+  169  git commit -m "A3 commit" -a
+  170  git push -u origin master
+  171  git pull origin master
+  172  git reset
+  173  git commit -m "A3 commit." -a
+  174  git push -u origin master
+  175  git reset
+  176  git add .
+  177  git commit -m "A3 commit." -
+  178  git commit -m "A3 commit." -a
+  179  git add .
+  180  git commit -m "A3 commit." -a
+  181  git push -u origin master
+  182  git pull origin master
+  183  cd ..
+  184  git pull origin master
+  185  ls
+  186  cd countnames_parallel
+  187  git add .
+  188  git push -u origin master
+  189  cd ..
+  190  git pull origin master --allow-unrelated-histories
+  191  ls
+  192  cd countnames_parallel
+  193  cd
+  194  ls
+  195  cd Desktop
+  196  ls
+  197  cd CS146
+  198  c
+  199  ls
+  200  cd countnames_parallel
+  201  git add .
+  202  git commit -m "A3 commit." -a
+  203  git reset
+  204  git add .
+  205  git commit -m "A3 commit." -a
+  206  git push -u origin master
+  207  cdc
+  208  cd
+  209  git pull origin master
+  210  cd
+  211  ls
+  212  cd Desktop
+  213  ls
+  214  cd CS146
+  215  ls
+  216  cd countnames_parallel
+  217  ls
+  218  git add .
+  219  git commit -m "A3 commit." -
+  220  git commit -m "A3 commit." -a
+  221  git add .
+  222  git push -u origin master
+  223  git init
+  224  git remote add https://SuperShishido@bitbucket.org/landon-shishido/cs149..git
+  225  cd Desktop
+  226  ls
+  227  cd
+  228  git config --global user.email "landon.shishido@sjsu.edu"
+  229  git config --global user.name "landonshishido"
+  230  ls
+  231  cd Desktop
+  232  ls
+  233  cd CS146
+  234  ls
+  235  cd countnames_parallel
+  236  git add .
+  237  git commit -m "A3 commit" -a
+  238  git add .
+  239  git commit -m "A3 commit" -a
+  240  git push -u origin master
+  241  git rebase -i
+  242  git remote add origin https://SuperShishido@bitbucket.org/landon-shishido/cs149..git
+  243  git init
+  244  rm -rf .git
+  245  git init
+  246  git remote add https://SuperShishido@bitbucket.org/landon-shishido/cs149..git
+  247  git reset
+  248  git config --global user.email "landonbusiness1@gmail.com"
+  249  git config --global user.name "SuperShishido"
+  250  git reset
+  251  ls
+  252  cd Desktop
+  253  ls
+  254  cd CS146
+  255  ls
+  256  git reset
+  257  ls
+  258  cd countnames_parallel
+  259  git add .
+  260  git commit -m "A3 commit" -a
+  261  git reset
+  262  git add .
+  263  git commit -m "A3 commit" -a
+  264  git push -u origin master
+  265  cd
+  266  rm -rf .git
+  267  git init
+  268  git remote add origin https://SuperShishido@bitbucket.org/landon-shishido/cs149..git
+  269  git config --global user.email "landonbusiness1@gmail.com"
+  270  git config --global user.name "SuperShishido"
+  271  cd Desktop
+  272  ls
+  273  cd CS146
+  274  ls
+  275  cd countnames_parallel
+  276  git add .
+  277  git commit -m "A-3 commit" -a
+  278  git status
+  279  rm -rf .git
+  280  cd
+  281  git init
+  282  rm -rf .git
+  283  git init
+  284  git remote add origin https://SuperShishido@bitbucket.org/landon-shishido/cs.149.git
+  285  git config --global user.email "landonbusiness1@gmail.com"
+  286  git config --global user.name "SuperShishido"
+  287  cd Desktop
+  288  ls
+  289  cd CS146
+  290  ls
+  291  cd countnames_parallel
+  292  git add .
+  293  git commit -m "A3 commit" -a
+  294  git push -u origin master
+  295  git remote set-url origin https://bitbucket.org/landon-shishido/cs.149.git
+  296  git status
+  297  git push -u origin master
+  298  ls
+  299  cd Desktop
+  300  ls
+  301  gcc -o proc_manager proc_manager.c -Wall -Werror
+  302  cd proc_manager
+  303  gcc -o proc_manager proc_manager.c -Wall -Werror
+  304  cd
+  305  cd Desktop
+  306  ls
+  307  gcc -o proc_manager proc_manager.c -Wall -Werror
+  308  cd proc_manager
+  309  gcc -o proc_manager proc_manager.c -Wall -Werror
+  310  $ ./proc_manager
+  311  ../A1/matrixmult test/A1.txt test/W1.txt test/B1.txt
+  312  ../A1/matrixmult test/A2.txt test/W2.txt test/B2.txt
+  313  ../A1/matrixmult test/A3.txt test/W3.txt test/B3.txt
+  314  ../A1/matrixmult test/wrongfilename.txt
+  315  sleep 10
+  316  cd
+  317  ls
+  318  cd Desktop
+  319  ls
+  320  cd CS146
+  321  ls
+  322  cd WS1
+  323  history > cmds.log
+  324  git add cmds.log *.c
+  325  date
+  326  pwd
+  327  cd ~
+  328  cd Desktop/
+  329  ls
+  330  cd CS146
+  331  ls
+  332  cd WS2
+  333  ls -latr
+  334  echo $?
+  335  man ps
+  336  unminimize
+  337  sudo unminimize
+  338  ls
+  339  cd Desktop
+  340  wget https://github.com/torvalds/linux/archive/master.zip
+  341  unzip master.zip
+  342  cd linux-master
+  343  pwd
+  344  alias l='ls -latr'
+  345  l
+  346  find . -name mem.c
+  347  find . -name mem.c | xargs head
+  348  find . -name mem.c | xargs grep 86
+  349  cd ..
+  350  history > worksheet3.log
